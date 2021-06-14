@@ -1,0 +1,20 @@
+{.red
+font-family:Copperplate, Papyrus, fantasy; 
+font-size: 24px }
+
+.pink{
+	font-family:Copperplate, Papyrus, fantasy;;
+font-size:68px; color: hsla(89, 43%, 51%, 0.6);
+}
+
+#ma
+{font-family: Copperplate, Papyrus, fantasy;
+font-size:48px; color: hsla(89, 43%, 51%, 0.6);
+}	
+
+body{
+	    background-image: url(https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=978&q=80), url("paper.gif");
+  background-color: #cccccc;
+font-family: Copperplate, Papyrus, fantasy;
+font-size: 32px;
+}
